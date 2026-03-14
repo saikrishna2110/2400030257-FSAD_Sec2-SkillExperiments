@@ -1,1 +1,2 @@
 git skill01 notes
+Bug Fix Applied
