@@ -1,2 +1,5 @@
 git skill01 notes
-Feature update added in branchgi
+
+Feature update added in branch
+Bug Fix Applied
+
